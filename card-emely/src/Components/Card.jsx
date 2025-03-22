@@ -10,9 +10,9 @@ const Card = ({titulo}) => {
         <img src={foto} alt="" />
       </div>
       <div class="profile-name">Emely Lovo</div>
-      <p class="about">User Interface Designer and<br/>front-end developer</p>
-      <button class="msg-btn">Message</button>
-      <button class="follow-btn">Following</button>
+      <p class="about">Tengo 17 años Estudio Desarrollo de Software<br/>Me encanta escuchar música</p>
+      <button class="msg-btn">Instagram</button>
+      <button class="follow-btn">Github</button>
       <div>
         <i class="fab fa-facebook-f"></i>
         <i class="fab fa-instagram"></i>
